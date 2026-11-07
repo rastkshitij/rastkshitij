@@ -118,3 +118,4 @@ with open('snake-dark.svg', 'w') as f:
     f.write(svg_content)
 
 print('Generated github-contribution-grid-snake.svg and snake-dark.svg successfully!')
+

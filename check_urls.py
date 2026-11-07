@@ -12,3 +12,4 @@ for u in sorted(set(urls)):
             print(f'OK [{r.status}]: {u}')
     except Exception as e:
         print(f'ERR [{e}]: {u}')
+

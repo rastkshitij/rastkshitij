@@ -6,3 +6,4 @@ with urllib.request.urlopen(req, timeout=8) as r:
     for repo in repos:
         name = repo['name']
         print(f"  {name} -> {repo['html_url']}")
+
