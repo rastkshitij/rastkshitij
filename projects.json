@@ -1,0 +1,30 @@
+[
+  {
+    "name": "PulseTalk",
+    "repo": "rastkshitij/Pulsetalk",
+    "logo": "pulsetalk.png",
+    "description": "An AI-powered healthcare assistant featuring conversational triage, real-time voice assistance, image-based disease prediction, and clinical appointment booking.",
+    "tags": ["React", "TypeScript", "Express.js", "MongoDB", "Gemini API"]
+  },
+  {
+    "name": "OpsEcho",
+    "repo": "rastkshitij/OpsEcho",
+    "logo": "opsecho.png",
+    "description": "An AI incident commander with real-time audio rooms that extracts critical incident facts, active hypotheses, and prioritized action items.",
+    "tags": ["React", "TypeScript", "Node.js", "Socket.io", "Gemini API", "Agora RTC"]
+  },
+  {
+    "name": "AI Battle Arena",
+    "repo": "rastkshitij/aiBattleArenaActual",
+    "logo": "llm-evaluation.png",
+    "description": "A multi-agent AI system comparing and benchmarking responses between frontier LLMs with an automated LLM-as-a-Judge evaluation pipeline.",
+    "tags": ["React", "TypeScript", "LangChain", "AI Agents", "LLMs"]
+  },
+  {
+    "name": "IIT Kanpur Virtual Lab",
+    "repo": "rastkshitij/diffrentstatesofwater-final",
+    "logo": "virtual-lab.png",
+    "description": "An interactive virtual laboratory simulation environment developed during a research internship at IIT Kanpur for experiential learning.",
+    "tags": ["JavaScript", "HTML5", "CSS3", "Interactive Simulations"]
+  }
+]
